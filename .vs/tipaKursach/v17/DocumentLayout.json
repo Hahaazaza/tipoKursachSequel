@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\agada\\c#\\tipaKursach2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{32748284-CA03-4C9C-8B70-AF1E9CA9C6E8}|tipaKursach\\tipaKursach.csproj|D:\\agada\\c#\\tipaKursach2\\tipakursach\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32748284-CA03-4C9C-8B70-AF1E9CA9C6E8}|tipaKursach\\tipaKursach.csproj|solutionrelative:tipakursach\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32748284-CA03-4C9C-8B70-AF1E9CA9C6E8}|tipaKursach\\tipaKursach.csproj|D:\\agada\\c#\\tipaKursach2\\tipakursach\\authorizationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32748284-CA03-4C9C-8B70-AF1E9CA9C6E8}|tipaKursach\\tipaKursach.csproj|solutionrelative:tipakursach\\authorizationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32748284-CA03-4C9C-8B70-AF1E9CA9C6E8}|tipaKursach\\tipaKursach.csproj|D:\\agada\\c#\\tipaKursach2\\tipakursach\\authorizationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{32748284-CA03-4C9C-8B70-AF1E9CA9C6E8}|tipaKursach\\tipaKursach.csproj|solutionrelative:tipakursach\\authorizationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32748284-CA03-4C9C-8B70-AF1E9CA9C6E8}|tipaKursach\\tipaKursach.csproj|D:\\agada\\c#\\tipaKursach2\\tipakursach\\adminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{32748284-CA03-4C9C-8B70-AF1E9CA9C6E8}|tipaKursach\\tipaKursach.csproj|solutionrelative:tipakursach\\adminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32748284-CA03-4C9C-8B70-AF1E9CA9C6E8}|tipaKursach\\tipaKursach.csproj|D:\\agada\\c#\\tipaKursach2\\tipakursach\\registrationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32748284-CA03-4C9C-8B70-AF1E9CA9C6E8}|tipaKursach\\tipaKursach.csproj|solutionrelative:tipakursach\\registrationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32748284-CA03-4C9C-8B70-AF1E9CA9C6E8}|tipaKursach\\tipaKursach.csproj|D:\\agada\\c#\\tipaKursach2\\tipakursach\\registrationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{32748284-CA03-4C9C-8B70-AF1E9CA9C6E8}|tipaKursach\\tipaKursach.csproj|solutionrelative:tipakursach\\registrationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32748284-CA03-4C9C-8B70-AF1E9CA9C6E8}|tipaKursach\\tipaKursach.csproj|D:\\agada\\c#\\tipaKursach2\\tipakursach\\adminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32748284-CA03-4C9C-8B70-AF1E9CA9C6E8}|tipaKursach\\tipaKursach.csproj|solutionrelative:tipakursach\\adminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32748284-CA03-4C9C-8B70-AF1E9CA9C6E8}|tipaKursach\\tipaKursach.csproj|D:\\agada\\c#\\tipaKursach2\\tipakursach\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32748284-CA03-4C9C-8B70-AF1E9CA9C6E8}|tipaKursach\\tipaKursach.csproj|solutionrelative:tipakursach\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32748284-CA03-4C9C-8B70-AF1E9CA9C6E8}|tipaKursach\\tipaKursach.csproj|D:\\agada\\c#\\tipaKursach2\\tipakursach\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{32748284-CA03-4C9C-8B70-AF1E9CA9C6E8}|tipaKursach\\tipaKursach.csproj|solutionrelative:tipakursach\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthorizationForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "D:\\agada\\c#\\tipaKursach2\\tipaKursach\\AuthorizationForm.cs",
+              "RelativeDocumentMoniker": "tipaKursach\\AuthorizationForm.cs",
+              "ToolTip": "D:\\agada\\c#\\tipaKursach2\\tipaKursach\\AuthorizationForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "tipaKursach\\AuthorizationForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T16:53:35.626Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthorizationForm.cs",
+              "DocumentMoniker": "D:\\agada\\c#\\tipaKursach2\\tipaKursach\\AuthorizationForm.cs",
+              "RelativeDocumentMoniker": "tipaKursach\\AuthorizationForm.cs",
+              "ToolTip": "D:\\agada\\c#\\tipaKursach2\\tipaKursach\\AuthorizationForm.cs",
+              "RelativeToolTip": "tipaKursach\\AuthorizationForm.cs",
+              "ViewState": "AQIAAMEAAAAAAAAAAAAcwPgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T16:59:03.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\agada\\c#\\tipaKursach2\\tipaKursach\\Program.cs",
+              "RelativeDocumentMoniker": "tipaKursach\\Program.cs",
+              "ToolTip": "D:\\agada\\c#\\tipaKursach2\\tipaKursach\\Program.cs",
+              "RelativeToolTip": "tipaKursach\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T16:58:50.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RegistrationForm.cs",
+              "DocumentMoniker": "D:\\agada\\c#\\tipaKursach2\\tipaKursach\\RegistrationForm.cs",
+              "RelativeDocumentMoniker": "tipaKursach\\RegistrationForm.cs",
+              "ToolTip": "D:\\agada\\c#\\tipaKursach2\\tipaKursach\\RegistrationForm.cs",
+              "RelativeToolTip": "tipaKursach\\RegistrationForm.cs",
+              "ViewState": "AQIAAJcAAAAAAAAAAAAAAMkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T22:07:32.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AdminForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "D:\\agada\\c#\\tipaKursach2\\tipaKursach\\AdminForm.cs",
+              "RelativeDocumentMoniker": "tipaKursach\\AdminForm.cs",
+              "ToolTip": "D:\\agada\\c#\\tipaKursach2\\tipaKursach\\AdminForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "tipaKursach\\AdminForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T07:46:32.9Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RegistrationForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "D:\\agada\\c#\\tipaKursach2\\tipaKursach\\RegistrationForm.cs",
+              "RelativeDocumentMoniker": "tipaKursach\\RegistrationForm.cs",
+              "ToolTip": "D:\\agada\\c#\\tipaKursach2\\tipaKursach\\RegistrationForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "tipaKursach\\RegistrationForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T21:00:12.125Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "D:\\agada\\c#\\tipaKursach2\\tipaKursach\\MainForm.cs",
+              "RelativeDocumentMoniker": "tipaKursach\\MainForm.cs",
+              "ToolTip": "D:\\agada\\c#\\tipaKursach2\\tipaKursach\\MainForm.cs",
+              "RelativeToolTip": "tipaKursach\\MainForm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T07:46:20.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AdminForm.cs",
+              "DocumentMoniker": "D:\\agada\\c#\\tipaKursach2\\tipaKursach\\AdminForm.cs",
+              "RelativeDocumentMoniker": "tipaKursach\\AdminForm.cs",
+              "ToolTip": "D:\\agada\\c#\\tipaKursach2\\tipaKursach\\AdminForm.cs",
+              "RelativeToolTip": "tipaKursach\\AdminForm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T07:46:41.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MainForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "D:\\agada\\c#\\tipaKursach2\\tipaKursach\\MainForm.cs",
+              "RelativeDocumentMoniker": "tipaKursach\\MainForm.cs",
+              "ToolTip": "D:\\agada\\c#\\tipaKursach2\\tipaKursach\\MainForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "tipaKursach\\MainForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T07:45:56.582Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
